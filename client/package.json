@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "video.js": "^5.20.5",
+    "video.js": "^7.14.3",
     "videojs-resolution-switcher": "^0.4.2"
   }
 }
